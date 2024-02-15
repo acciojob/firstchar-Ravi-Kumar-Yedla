@@ -1,11 +1,11 @@
 function firstChar(text) {
   // your code here
 	for(let r of text){
-		if(r !== ""){
+		if(r !== ''){
 			return r;
 		}
 		else{
-			return "";
+			return '';
 		}
 	}
 }
