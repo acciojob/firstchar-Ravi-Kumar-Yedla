@@ -4,10 +4,10 @@ function firstChar(text) {
 		if(r !== ''){
 			return r;
 		}
-		else{
+	}	
 			return '';
-		}
-	}
+		
+	
 }
 
 // Do not change the code below
